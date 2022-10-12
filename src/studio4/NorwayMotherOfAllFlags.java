@@ -29,7 +29,7 @@ public class NorwayMotherOfAllFlags {
 	}
 
 	public static void france() {
-		
+
 		// TODO
 	}
 
